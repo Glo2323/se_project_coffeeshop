@@ -19,7 +19,7 @@
   margin: 0;
   max-width: 438px;
   margin-bottom: 80px;
-  font-family: "Noto Serif, Times New Roman, serif";
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-weight: normal;
   font-size: 20px;
   line-height: 30px;
@@ -40,4 +40,8 @@
   font-weight: 500;
   font-size: 20px;
   line-height: 30px;
+}
+
+.recipes__iframe {
+  border: 0;
 }

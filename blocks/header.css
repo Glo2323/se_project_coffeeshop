@@ -20,15 +20,15 @@
 
 .header__span_accent {
   display: block;
-  font-family: "Noto Serif, Times New Roman, serif";
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-style: italic;
   color: #3f96f3;
 }
 
-.header__desription {
+.header__description {
   margin: 28px 0 0;
   max-width: 683px;
-  font-family: "Noto Serif, Times New Roman, serif";
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
@@ -48,7 +48,7 @@
   display: flex;
   justify-content: space-between;
   align-items: flex-end;
-  font-family: "Noto Serif, Times New Roman, serif";
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;

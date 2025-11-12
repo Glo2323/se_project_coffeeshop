@@ -17,9 +17,10 @@
   display: flex;
   flex-direction: column;
   gap: 16px;
+  list-style: none;
 }
 
-.card__list_item {
+.card__list-item {
   display: flex;
   flex-direction: row;
   gap: 10px;
@@ -30,7 +31,7 @@
   line-height: 20px;
 }
 
-.card__list-divder {
+.card__list-divider {
   flex-grow: 1;
   border-bottom: 1px solid black;
 }
