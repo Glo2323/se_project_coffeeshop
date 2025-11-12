@@ -21,6 +21,7 @@
 
 .card__list_item {
   display: flex;
+  flex-direction: row;
   gap: 10px;
   font-family: "Noto Serif, Times New Roman, serif";
   font-style: normal;
